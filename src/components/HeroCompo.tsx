@@ -1,5 +1,3 @@
-import React from "react";
-
 const HeroCompo = () => {
   return (
     <div className="mt-[200px]">
